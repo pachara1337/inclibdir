@@ -1,0 +1,23 @@
+/>
+					<assemblyIdentity name="Microsoft-Windows-shell32.Resources" version="6.2.9200.21363" processorArchitecture="amd64" language="sv-SE" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="Microsoft-Windows-shell32.Resources" version="6.2.9200.21363" processorArchitecture="amd64" language="th-TH" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="Microsoft-Windows-shell32.Resources" version="6.2.9200.21363" processorArchitecture="amd64" language="tr-TR" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="Microsoft-Windows-shell32.Resources" version="6.2.9200.21363" processorArchitecture="amd64" language="uk-UA" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="Microsoft-Windows-shell32.Resources" version="6.2.9200.21363" processorArchitecture="amd64" language="zh-CN" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="Microsoft-Windows-shell32.Resources" version="6.2.9200.21363" processorArchitecture="amd64" language="zh-HK" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="Microsoft-Windows-shell32.Resources" version="6.2.9200.21363" processorArchitecture="amd64" language="zh-TW" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="Microsoft-Windows-shell32" version="6.2.9200.21363" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+				</updateComponent>
+			</applicable>
+		</update>
+		<update name="3012702-78_neutral_LDR">
+			<applicable disposition="staged">
+				<updateComponent elevate="distribution">
+					<assemblyIdentity name="Microsoft-Windows-shell32.Resources" version="6.2.9200.21363" processorArchitecture="amd64" language="pt-PT" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+				</updateComponent>
+				<detectUpdate>
+					<update name="Trigger_1"/>
+				</detectUpdate>
+			</applicable>
+			<component>
+				<assemblyIdentity name="0c6e2692040ca3e04516ec596b32ae1e" version="6.2.9200.21363" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/
